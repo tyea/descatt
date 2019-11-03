@@ -9,8 +9,8 @@ You don't need to have Google Chrome installed, however the framerate is very lo
 ## Requirements
 
 * Python 3
-* ![Pyscreenshot](https://pypi.org/project/pyscreenshot/)
-* ![Cast All The Things](https://pypi.org/project/catt/)
+* [Pyscreenshot](https://pypi.org/project/pyscreenshot/)
+* [Cast All The Things](https://pypi.org/project/catt/)
 
 ## Installation
 
