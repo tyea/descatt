@@ -31,6 +31,6 @@ http://192.168.0.2:7425/index.html
 foo@bar:~$ catt -d 192.168.0.1 cast_site http://192.168.0.2:7425/index.html
 ```
 
-## About
+## Author
 
-Written by Tom Yeadon in 2019.
+Written by Tom Yeadon in October 2019.
