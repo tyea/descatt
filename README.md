@@ -2,11 +2,9 @@
 
 ## About
 
-Descatt is a Python script for casting your Linux desktop to a Chromecast.
+Descatt is a Python script for casting your Linux desktop to a Chromecast. 
 
-You don't need to have Google Chrome installed, however the framerate is very low.
-
-Audio casting is not supported at the moment.
+Audio casting is not supported and the framerate is very low.
 
 ## Requirements
 
