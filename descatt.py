@@ -65,12 +65,12 @@ port = random.randint(7425, 7450)
 
 temp_socket = socket.socket(socket.AF_INET, socket.SOCK_DGRAM)
 try:
-    temp_socket.connect(("10.255.255.255", 1))
-    ip = temp_socket.getsockname()[0]
+	temp_socket.connect(("10.255.255.255", 1))
+	ip = temp_socket.getsockname()[0]
 except:
-    ip = "127.0.0.1"
+	ip = "127.0.0.1"
 finally:
-    temp_socket.close()
+	temp_socket.close()
 
 print("http://" + ip + ":" + str(port) + "/index.html")
 
